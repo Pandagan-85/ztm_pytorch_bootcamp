@@ -1,0 +1,16 @@
+# PyTorch Bootcamp (Zero To Mastery)
+
+Repository con gli esercizi svolti durante il corso [PyTorch for Deep Learning Bootcamp: Zero to Mastery](https://zerotomastery.io/courses/learn-pytorch/).
+
+## Notebook
+
+0. PyTorch Introduction (tensor, matrix, dotproduct, manipulating tensor, indexing etc.)
+1. Pytorch Workflow (TBD)
+2. Pytorch Neural Network Classification (TBD)
+3. PyTorch Computer Vision (TBD)
+4. PyTorch Custom Datasets (TBD)
+5. PyTorch Going Modular (TBD)
+6. PyTorch Transfer Learning (TBD)
+7. PyTorch Experiment Trtacking (TBD)
+8. PyTorch Paper Replicating (TBD)
+9. PyTorch Model Deployment
