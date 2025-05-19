@@ -5,12 +5,12 @@ Repository con gli esercizi svolti durante il corso [PyTorch for Deep Learning B
 ## Notebook
 
 0. PyTorch Introduction (tensor, matrix, dotproduct, manipulating tensor, indexing etc.)
-1. Pytorch Workflow (TBD)
-2. Pytorch Neural Network Classification (TBD)
+1. Pytorch Workflow (Basic intro, create model, train and evaluate, save and laod state_dict)
+2. Pytorch Neural Network Classification (DOING)
 3. PyTorch Computer Vision (TBD)
 4. PyTorch Custom Datasets (TBD)
 5. PyTorch Going Modular (TBD)
 6. PyTorch Transfer Learning (TBD)
-7. PyTorch Experiment Trtacking (TBD)
+7. PyTorch Experiment Tracking (TBD)
 8. PyTorch Paper Replicating (TBD)
 9. PyTorch Model Deployment
