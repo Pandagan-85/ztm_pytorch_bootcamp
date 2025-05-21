@@ -6,8 +6,8 @@ Repository con gli esercizi svolti durante il corso [PyTorch for Deep Learning B
 
 0. PyTorch Introduction (tensor, matrix, dotproduct, manipulating tensor, indexing etc.)
 1. Pytorch Workflow (Basic intro, create model, train and evaluate, save and laod state_dict)
-2. Pytorch Neural Network Classification (DOING)
-3. PyTorch Computer Vision (TBD)
+2. Pytorch Neural Network Classification (The importance of non linearity (ReLU), binary classification, multiclass classification)
+3. PyTorch Computer Vision (DOING)
 4. PyTorch Custom Datasets (TBD)
 5. PyTorch Going Modular (TBD)
 6. PyTorch Transfer Learning (TBD)
